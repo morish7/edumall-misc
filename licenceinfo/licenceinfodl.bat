@@ -1,0 +1,1 @@
+azcopy copy "https://p01sac01op00.blob.core.windows.net/p01-lap20-cr00/*?sv=2018-03-28&ss=b&srt=sco&sp=rl&st=2020-03-09T11%3A07%3A05Z&se=2030-03-10T11%3A07%3A00Z&sig=d6Qsy4gZhXoUzujrgG8SCbeyajAr3HsDm%2FE0x4QyZ54%3D" "./" --recursive=true

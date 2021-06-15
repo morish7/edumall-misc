@@ -1,0 +1,11 @@
+{
+  "applinks": {
+       "apps": [],
+        "details": [
+           {
+               "appID":"VA53JBBGEY.jp.co.www.mitsumuratosho.splatform",
+               "paths":[ "*" ]
+           }
+         ]
+    }
+}
